@@ -1,0 +1,6 @@
+[submodule "CodingInterviews?organization=lionktStore&organization=lionktStore"]
+	path = CodingInterviews?organization=lionktStore&organization=lionktStore
+	url = https://github.com/lionktStore/CodingInterviews?organization=lionktStore&organization=lionktStore
+[submodule "CodingInterviews"]
+	path = CodingInterviews
+	url = https://github.com/lionkt/CodingInterviews
