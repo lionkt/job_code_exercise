@@ -4,3 +4,6 @@
 [submodule "CodingInterviews"]
 	path = CodingInterviews
 	url = https://github.com/lionkt/CodingInterviews
+[submodule "DeepLearning-500-questions"]
+	path = DeepLearning-500-questions
+	url = https://github.com/scutan90/DeepLearning-500-questions
