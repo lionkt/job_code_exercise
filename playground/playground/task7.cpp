@@ -66,6 +66,7 @@ public:
 		return new_node;
 	}
 
+
 	//***********´òÓ¡¶þ²æÊ÷***********
 	void PrintTree(TreeNode* root) {
 		if (root != nullptr) {
