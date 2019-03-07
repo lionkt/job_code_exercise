@@ -1,6 +1,4 @@
-#include<iostream>
-#include<vector>
-#include<queue>
+#include"common_def.h"
 
 using namespace std;
 
@@ -108,7 +106,7 @@ public:
 
 
 
-void main()
+void _t7main()
 {
 	int pre_array[] = { 1,2,4,7,3,5,6,8 };
 	int vin_array[] = { 4,7,2,1,5,3,8,6 };

@@ -142,7 +142,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="playGround.cpp" />
+    <ClCompile Include="task11.cpp" />
     <ClCompile Include="task7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common_def.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

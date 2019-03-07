@@ -13,10 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\PointOffer">
+      <UniqueIdentifier>{f9ec3eeb-be69-40aa-b14d-bd62368d2caf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Leetcode">
+      <UniqueIdentifier>{8a5f585f-883d-4054-9957-4a93ee50847a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="task7.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\PointOffer</Filter>
     </ClCompile>
+    <ClCompile Include="task11.cpp">
+      <Filter>源文件\PointOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="playGround.cpp">
+      <Filter>源文件\Leetcode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common_def.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
