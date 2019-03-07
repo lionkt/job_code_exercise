@@ -7,3 +7,6 @@
 [submodule "DeepLearning-500-questions"]
 	path = DeepLearning-500-questions
 	url = https://github.com/scutan90/DeepLearning-500-questions
+[submodule "lihang-code"]
+	path = lihang-code
+	url = https://github.com/lionkt/lihang-code
